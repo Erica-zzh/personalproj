@@ -12,6 +12,6 @@ Do Left-handed People Really Die Young? - Python
 Topics: Data manipulation, Data visualization, Probability & Statistics
 
 Rise and Fall of Programming Languages - R
-Topics: Data manipulation, Data visualizaion
+Topics: Data manipulation, Data visualization
 
 ### Unguided Datacamp projects: Data and theme given by Datacamp.
